@@ -1,0 +1,11 @@
+Minimum Spanning Tree
+	- Graph with the minimum number of edges necessary to connect the vertices
+	- There are many possible minimum spanning trees for a given set of vertices
+	- Number of edges E in a minimum spanning tree is always one less than the 
+	  number of vertices V:
+			E = V – 1
+	- The algorithm for creating the minimum spanning tree is almost identical to that
+	  used for searching. It can be based on either the depth-first search or the
+	  breadth-first search
+    	  			
+	
